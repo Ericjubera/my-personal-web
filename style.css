@@ -1,0 +1,19 @@
+body{
+    background:white;
+    text-align: left;
+    font-style: italic;
+    font-size: medium;
+}
+
+    h1{
+        font-size: larger;
+        text-align: center;
+        color: blue;
+        
+    }
+h2{
+    font-size: large;
+    text-align: center;
+    color:blue
+
+}
